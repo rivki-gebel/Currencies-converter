@@ -23,6 +23,9 @@
 
 
 # Running Instructions:
+# Clone the repository:
+1. choose where to locate the project
+2. in the CMD run: `git clone "https://github.com/rivki-gebel/Currencies-converter.git"`
 ## Running the API Locally:
 1. Open the C# project in your development environment (e.g., Visual Studio).
 2. Run the API server.
