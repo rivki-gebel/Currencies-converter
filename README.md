@@ -40,4 +40,4 @@
 `npm start`
 
 
-After completing these steps, the project will be available for use at `http://localhost:5137/`.
+After completing these steps, the project will be available for use at `http://localhost:5173/`.
