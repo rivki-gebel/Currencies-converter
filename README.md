@@ -36,8 +36,8 @@
 2. Install dependencies using:
 `npm install`
 
-3. Start the React development server:
-`npm start`
+3. Run the React development app:
+`npm run dev`
 
 
 After completing these steps, the project will be available for use at `http://localhost:5173/`.
