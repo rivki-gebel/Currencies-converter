@@ -1,0 +1,12 @@
+version: '3.8'
+
+services:
+  client:
+    build: ./Frontend 
+    ports:
+      - "5173:5173"
+
+  server:
+    build: ./Backend/ExchangeRates-MinimalAPI 
+    ports:
+      - "7172:7172"
